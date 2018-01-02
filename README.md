@@ -1,2 +1,3 @@
 # meeting-minutes-utility
-utility to record meeting, translate to text and result key phrases/sentiments
+
+Written in WPF, this solution makes use of Google Speech to Text API and Text Analyzer from Microsoft Cognitive Services and outputs the entire content, key-phrases and an emoji based upon sentiment.
