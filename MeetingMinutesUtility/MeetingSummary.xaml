@@ -1,0 +1,22 @@
+﻿<Window x:Class="MeetingMinutesUtility.MeetingSummary"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MeetingMinutesUtility"
+        mc:Ignorable="d"
+        Title="Meeting Minutes Utility" WindowStartupLocation="CenterScreen" Height="500" Width="500" AllowsTransparency="True" WindowStyle="None" MouseLeftButtonDown="DragWindow">
+    <Window.Background>
+        <SolidColorBrush Opacity="0.8" Color="Lavender"/>
+    </Window.Background>
+    <Grid>
+        <Label x:Name="_headingLabel" Content="Meeting Summary" FontFamily="Script MT Bold" FontSize="36" HorizontalAlignment="Center" Margin="0,40,0,0" VerticalAlignment="Top" Foreground="DarkBlue" />
+        <Image x:Name="image" HorizontalAlignment="Left" Height="100" Margin="300,105,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="_sentimentalAnalysisLabel" Content="Sentimental Analysis" FontFamily="Script MT Bold" FontSize="25" HorizontalAlignment="Left" Margin="50,130,0,0" VerticalAlignment="Top" Foreground="DarkBlue"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Center" Height="200" Margin="0,230,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="400" TextChanged="textBox_TextChanged"/>
+        <Label x:Name="_summaryLabel" Content="Meeting Minutes" FontFamily="Script MT Bold" FontSize="25" HorizontalAlignment="Left" Margin="50,190,0,0" VerticalAlignment="Top" Foreground="DarkBlue"/>
+        <Button x:Name="_playAudio" Content="Play Audio" FontFamily="Script MT Bold" FontSize="12" Width="75" Foreground="DarkBlue" ToolTip="Play recording" Cursor="Hand" HorizontalAlignment="Left" Margin="50,450,375,0" VerticalAlignment="Top" Click="PlayAudio_Click"/>
+        <Button x:Name="_textConversion" Content="Complete Text" FontFamily="Script MT Bold" FontSize="12" Foreground="DarkBlue" HorizontalAlignment="Center" Margin="0,450,0,0" VerticalAlignment="Top" Width="75" Click="GenerateText_Click"/>
+        <Button x:Name="_exit" Content="Exit" FontFamily="Script MT Bold" FontSize="12" Foreground="DarkBlue"  HorizontalAlignment="Right" Margin="0,450,50,0" VerticalAlignment="Top" Width="75" Click="ExitButton_Click"/>
+    </Grid>
+</Window>

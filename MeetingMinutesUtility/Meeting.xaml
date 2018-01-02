@@ -1,0 +1,28 @@
+﻿<Window x:Class="MeetingMinutesUtility.Meeting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MeetingMinutesUtility"
+        mc:Ignorable="d"
+        Title="Meeting Minutes Utility" WindowStartupLocation="CenterScreen" Height="500" Width="500" AllowsTransparency="True" WindowStyle="None" MouseLeftButtonDown="DragWindow">
+    <Window.Background>
+        <SolidColorBrush Opacity="0.8" Color="Lavender"/>
+    </Window.Background>
+    <Grid>
+        <Label x:Name="_headingLabel" Content="Meeting Details" FontFamily="Script MT Bold" FontSize="36" HorizontalAlignment="Center" Margin="0,40,0,0" VerticalAlignment="Top" Foreground="DarkBlue" />
+        <!--
+        <ProgressBar HorizontalAlignment="Center" Height="20" Margin="50,130,250,0" VerticalAlignment="Top" Width="200" />
+        <Label x:Name="_progressBarLabel" Content="Progress Bar" FontFamily="Script MT Bold" FontSize="13" HorizontalAlignment="Left" Margin="104,155,0,0" VerticalAlignment="Top" Foreground="DarkBlue"/>
+        -->
+        <Label x:Name="_meetingNameLabel" Content="Meeting Name" FontFamily="Script MT Bold" FontSize="25" HorizontalAlignment="Left" Margin="50,130,0,0" VerticalAlignment="Top" Foreground="DarkBlue"/>
+        <Label x:Name="_meetingHostLabel" Content="Meeting Host" FontFamily="Script MT Bold" FontSize="25" HorizontalAlignment="Left" Margin="50,230,0,0" VerticalAlignment="Top" Foreground="DarkBlue"/>
+        <Label x:Name="_durationLabel" Content="Remaining Time" FontFamily="Script MT Bold" FontSize="25" HorizontalAlignment="Left" Margin="50,330,0,0" VerticalAlignment="Top" Foreground="DarkBlue"/>
+        <Label x:Name="_meetingNameLabel_Value" Content="" FontFamily="Script MT Bold" FontSize="25" HorizontalAlignment="Left" Margin="250,130,0,0" VerticalAlignment="Top" Foreground="DarkBlue"/>
+        <Label x:Name="_meetingHostLabel_Value" Content="" FontFamily="Script MT Bold" FontSize="25" HorizontalAlignment="Left" Margin="250,230,0,0" VerticalAlignment="Top" Foreground="DarkBlue"/>
+        <Label x:Name="_durationLabel_Value" Content="" FontFamily="Script MT Bold" FontSize="25" HorizontalAlignment="Left" Margin="250,330,0,0" VerticalAlignment="Top" Foreground="DarkBlue"/>
+        <Button x:Name="button" Content="End Meeting" FontFamily="Script MT Bold" FontSize="12"  HorizontalAlignment="Center" Margin="0,415,0,0" VerticalAlignment="Top" Width="75" Foreground="DarkBlue" ToolTip="Ends meeting" Cursor="Hand" Click="EndMeeting"/>
+        <Label x:Name="_informationLabel" FontSize="9" Content="*Note: For training purposes, entire meeting audio may be recorded." HorizontalAlignment="Left" Margin="50,450,0,0" VerticalAlignment="Top" Foreground="DarkBlue"/>
+
+    </Grid>
+</Window>

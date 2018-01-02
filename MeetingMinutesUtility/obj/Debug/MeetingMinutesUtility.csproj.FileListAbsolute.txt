@@ -1,0 +1,133 @@
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\MeetingMinutesUtility.exe.config
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.csprojResolveAssemblyReference.cache
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MainWindow.g.cs
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\App.g.cs
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility_MarkupCompile.cache
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility_MarkupCompile.lref
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\MeetingMinutesUtility.exe
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\MeetingMinutesUtility.pdb
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MainWindow.baml
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.g.resources
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.Properties.Resources.resources
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.csproj.GenerateResource.Cache
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.exe
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.pdb
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\Meeting.g.cs
+c:\users\sri ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\Meeting.baml
+C:\Users\Sri Ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingSummary.g.cs
+C:\Users\Sri Ram\documents\visual studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingSummary.baml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\NAudio.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\NAudio.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.Gax.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Core.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Speech.v1.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.LongRunning.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Protobuf.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Grpc.Auth.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Grpc.Core.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\log4net.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\System.Interactive.Async.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Zlib.Portable.dll
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.Gax.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.pdb
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Core.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Speech.v1.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.LongRunning.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Protobuf.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Grpc.Auth.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Grpc.Core.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\log4net.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\System.Interactive.Async.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Zlib.Portable.xml
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility_Content.g.cs
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Resources\Speech To Text-8c5a3da8c767.json
+C:\Users\Sri Ram\Documents\Visual Studio 2015\Projects\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Microsoft.ProjectOxford.Text.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\MeetingMinutesUtility.exe.config
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.exe
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.pdb
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\MeetingMinutesUtility.exe
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\MeetingMinutesUtility.pdb
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.Gax.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Auth.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Core.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Speech.v1.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.LongRunning.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Protobuf.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Grpc.Auth.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Grpc.Core.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\log4net.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Microsoft.ProjectOxford.Text.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\NAudio.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\System.Interactive.Async.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Zlib.Portable.dll
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.Gax.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Auth.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.pdb
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Core.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Apis.Speech.v1.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.LongRunning.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Google.Protobuf.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Grpc.Auth.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Grpc.Core.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\log4net.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\NAudio.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\System.Interactive.Async.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\bin\Debug\Zlib.Portable.xml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.csprojResolveAssemblyReference.cache
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MainWindow.g.cs
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\Meeting.g.cs
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingSummary.g.cs
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\App.g.cs
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility_Content.g.cs
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility_MarkupCompile.cache
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility_MarkupCompile.lref
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MainWindow.baml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\Meeting.baml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingSummary.baml
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.g.resources
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.Properties.Resources.resources
+C:\Users\s.lakshmi.narasimhan\Desktop\MeetingMinutesUtility\MeetingMinutesUtility\MeetingMinutesUtility\obj\Debug\MeetingMinutesUtility.csproj.GenerateResource.Cache
